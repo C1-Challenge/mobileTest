@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "C1 challenge",
+"productVersion": "1",
+"dataUrl": "TestMobile.data.unityweb",
+"wasmCodeUrl": "TestMobile.wasm.code.unityweb",
+"wasmFrameworkUrl": "TestMobile.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.17f1"
+}
